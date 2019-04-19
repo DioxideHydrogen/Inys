@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Alexa Erros Alarme</title>
+	</head>
+<body>
+	<center><h1>Log de Erros</h1></center>
+	  <table border="1">
+<tr>
+<td> Log de erro 1</td>
+<td> [!!!] (2006, 'MySQL server has gone away')
+Traceback (most recent call last):
+  File "alarmes.py", line 159, in <module>
+  File "alarmes.py", line 142, in insert
+  File "/usr/local/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 187, in execute
+    query = query % tuple([db.literal(item) for item in args])
+TypeError: not all arguments converted during string formatting
+shell-init: erro ao obter o diretório atual: getcwd: impossível acessar os diretórios pais (anteriores): Arquivo ou diretório inexistente </td>
+</tr>
+</table>
+

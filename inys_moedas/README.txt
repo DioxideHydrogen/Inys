@@ -1,0 +1,1 @@
+Os arquivos contdos nesa pasta são para aqueles que desejam adicionar alguma função na Inys

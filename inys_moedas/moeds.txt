@@ -1,0 +1,197 @@
+Afeganistão	Afegane afegão	AFN
+África do Sul	Rand sul-africano	ZAR
+Albânia	Lek albanês	ALL
+Alemanha	Euro	EUR
+Andorra	Euro	EUR
+Angola	Kwanza angolano	AOA
+Antiga e Barbuda	Dólar das Caraíbas Orientais	XCD
+Arábia Saudita	Rial saudita	SAR
+Argélia	Dinar argelino	DZD
+Argentina	Peso argentino	ARS
+Arménia	Dram arménio	AMD
+Austrália	Dólar australiano	AUD
+Áustria	Euro	EUR
+Azerbaijão	Manat azerbaijano	AZN
+Bahamas	Dólar baamense	BSD
+Bangladexe	Taka bangladexense	BDT
+Barbados	Dólar dos Barbados	BBD
+Barém	Dinar barenita	BHD
+Bélgica	Euro	EUR
+Belize	Dólar do Belize	BZD
+Benim	Franco CFA BCEAO	XOF
+Bielorrússia	Rublo bielorrusso	BYN
+Bolívia	Boliviano	BOB
+Bósnia e Herzegovina	Marco convertível da Bósnia e Herzegovina	BAM
+Botsuana	Pula do Botsuana	BWP
+Brasil	Real	BRL
+Brunei	Dólar do Brunei	BND
+Bulgária	Lev búlgaro	BGN
+Burquina Faso	Franco CFA BCEAO	XOF
+Burúndi	Franco burundiano	BIF
+Butão	Ngultrum butanês	BTN
+Cabo Verde	Escudo cabo-verdiano	CVE
+Camarões	Franco CFA BEAC	XAF
+Camboja	Riel cambojano	KHR
+Canadá	Dólar canadiano	CAD
+Catar	Rial catarense	QAR
+Cazaquistão	Tengue cazaque	KZT
+Chade	Franco CFA BEAC	XAF
+Chile	Peso chileno	CLP
+China	Iuane chinês	CNY
+Chipre	Euro	EUR
+Colômbia	Peso colombiano	COP
+Comores	Franco comorense	KMF
+Congo-Brazzaville	Franco CFA BEAC	XAF
+Coreia do Norte	Won norte-coreano	KPW
+Coreia do Sul	Won sul-coreano	KRW
+Cosovo	Euro	EUR
+Costa do Marfim	Franco CFA BCEAO	XOF
+Costa Rica	Colón costarriquenho	CRC
+Croácia	Kuna croata	HRK
+Cuaite	Dinar cuaitiano	KWD
+Cuba	Peso cubano	CUP
+Dinamarca	Coroa dinamarquesa	DKK
+Dominica	Dólar das Caraíbas Orientais	XCD
+Egito	Libra egípcia	EGP
+Emirados Árabes Unidos	Dirame dos Emirados Árabes Unidos	AED
+Equador	Dólar dos Estados Unidos	USD
+Eritreia	Nakfa eritreia	ERN
+Eslováquia	Euro	EUR
+Eslovénia	Euro	EUR
+Espanha	Euro	EUR
+Estado da Palestina	Novo siclo israelita	ILS
+Estados Unidos	Dólar dos Estados Unidos	USD
+Estónia	Euro	EUR
+Etiópia	Birr etíope	ETB
+Fiji	Dólar fijiano	FJD
+Filipinas	Peso filipino	PHP
+Finlândia	Euro	EUR
+França	Euro	EUR
+Gabão	Franco CFA BEAC	XAF
+Gâmbia	Dalasi gambiano	GMD
+Gana	Cedi do Gana	GHS
+Geórgia	Lari georgiano	GEL
+Granada	Dólar das Caraíbas Orientais	XCD
+Grécia	Euro	EUR
+Guatemala	Quetzal guatemalteco	GTQ
+Guiana	Dólar guianense	GYD
+Guiné	Franco guineense	GNF
+Guiné Equatorial	Franco CFA BEAC	XAF
+Guiné-Bissau	Franco CFA BCEAO	XOF
+Haiti	Gurde haitiano	HTG
+Honduras	Lempira hondurenha	HNL
+Hungria	Florim húngaro	HUF
+Iémen	Rial iemenita	YER
+Ilhas Marechal	Dólar dos Estados Unidos	USD
+Índia	Rupia indiana	INR
+Indonésia	Rupia indonésia	IDR
+Irão	Rial iraniano	IRR
+Iraque	Dinar iraquiano	IQD
+Irlanda	Euro	EUR
+Islândia	Coroa islandesa	ISK
+Israel	Novo siclo israelita	ILS
+Itália	Euro	EUR
+Jamaica	Dólar jamaicano	JMD
+Japão	Iene japonês	JPY
+Jibuti	Franco jibutiano	DJF
+Jordânia	Dinar jordano	JOD
+Laus	Kipe lau	LAK
+Lesoto	Loti do Lesoto	LSL
+Letónia	Euro	EUR
+Líbano	Libra libanesa	LBP
+Libéria	Dólar liberiano	LRD
+Líbia	Dinar líbio	LYD
+Listenstaine	Franco suíço	CHF
+Lituânia	Euro	EUR
+Luxemburgo	Euro	EUR
+Macedónia	Dinar macedónio	MKD
+Madagáscar	Ariari malgaxe	MGA
+Malásia	Ringuite malaio	MYR
+Maláui	Kwacha malauiano	MWK
+Maldivas	Rupia maldiva	MVR
+Mali	Franco CFA BCEAO	XOF
+Malta	Euro	EUR
+Marrocos	Dirame marroquino	MAD
+Maurícia	Rupia maurícia	MUR
+Mauritânia	Uguia mauritana	MRO
+México	Peso mexicano	MXN
+Mianmar	Kyat de Mianmar	MMK
+Micronésia	Dólar dos Estados Unidos	USD
+Moçambique	Metical moçambicano	MZN
+Moldávia	Leu moldávio	MDL
+Mónaco	Euro	EUR
+Mongólia	Tugrik mongol	MNT
+Montenegro	Euro	EUR
+Namíbia	Dólar namibiano	NAD
+Nauru	Dólar australiano	AUD
+Nepal	Rupia nepalesa	NPR
+Nicarágua	Córdoba nicaraguano	NIO
+Níger	Franco CFA BCEAO	XOF
+Nigéria	Naira nigeriano	NGN
+Noruega	Coroa norueguesa	NOK
+Nova Zelândia	Dólar da Nova Zelândia	NZD
+Omã	Rial omanense	OMR
+Países Baixos	Euro	EUR
+Palau	Dólar dos Estados Unidos	USD
+Panamá	Balboa panamense	PAB
+Papua Nova Guiné	Kina papuásia	PGK
+Paquistão	Rupia paquistanesa	PKR
+Paraguai	Guarani paraguaio	PYG
+Peru	Novo sol peruano	PEN
+Polónia	Zlóti polaco	PLN
+Portugal	Euro	EUR
+Quénia	Xelim queniano	KES
+Quirguistão	Som quirguiz	KGS
+Quiribáti	Dólar australiano	AUD
+Reino Unido	Libra esterlina	GBP
+República Centro-Africana	Franco CFA BEAC	XAF
+República Checa	Coroa checa	CZK
+República Democrática do Congo	Franco congolês	CDF
+República Dominicana	Peso dominicano	DOP
+Roménia	Leu romeno	RON
+Ruanda	Franco ruandês	RWF
+Rússia	Rublo russo	RUB
+Salomão	Dólar das Ilhas Salomão	SBD
+Salvador	Dólar dos Estados Unidos	USD
+Samoa	Tala samoana	WST
+Santa Lúcia	Dólar das Caraíbas Orientais	XCD
+São Cristóvão e Neves	Dólar das Caraíbas Orientais	XCD
+São Marinho	Euro	EUR
+São Tomé e Príncipe	Dobra de São Tomé e Príncipe	STD
+São Vicente e Granadinas	Dólar das Caraíbas Orientais	XCD
+Seicheles	Rupia seichelense	SCR
+Senegal	Franco CFA BCEAO	XOF
+Serra Leoa	Leone serra-leonino	SLL
+Sérvia	Dinar sérvio	RSD
+Singapura	Dólar de Singapura	SGD
+Síria	Libra síria	SYP
+Somália	Xelim somaliano	SOS
+Sri Lanca	Rupia cingalesa	LKR
+Suazilândia	Lilangeni suazilandês	SZL
+Sudão	Libra sudanesa	SDG
+Sudão do Sul	Libra sul-sudanesa	SSP
+Suécia	Coroa sueca	SEK
+Suíça	Franco suíço	CHF
+Suriname	Dólar surinamês	SRD
+Tailândia	Baht tailandês	THB
+Taiuã	Novo dólar de Taiuã	TWD
+Tajiquistão	Somoni tajique	TJS
+Tanzânia	Xelim tanzaniano	TZS
+Timor-Leste	Dólar dos Estados Unidos	USD
+Togo	Franco CFA BCEAO	XOF
+Tonga	Pa'anga tonganesa	TOP
+Trindade e Tobago	Dólar de Trindade e Tobago	TTD
+Tunísia	Dinar tunisino	TND
+Turcomenistão	Manat turcomeno	TMT
+Turquia	Lira turca	TRY
+Tuvalu	Dólar australiano	AUD
+Ucrânia	Grívnia ucraniana	UAH
+Uganda	Xelim ugandês	UGX
+Uruguai	Peso uruguaio	UYU
+Usbequistão	Som usbeque	UZS
+Vanuatu	Vatu do Vanuatu	VUV
+Vaticano	Euro	EUR
+Venezuela	Bólivar venezuelano	VEF
+Vietname	Dongue vietnamita	VND
+Zâmbia	Kwacha zambiana	ZMW
+Zimbábue	Dólar dos Estados Unidos	USD

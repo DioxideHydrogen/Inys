@@ -1,0 +1,10 @@
+playsound==1.2.2
+gTTS==2.0.3
+google==2.0.1
+wit==5.1.0
+requests==2.18.4
+google_api_python_client==1.7.8
+beautifulsoup4==4.7.1
+protobuf==3.7.1
+google_auth_oauthlib==0.3.0
+httplib2==0.12.1
