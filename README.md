@@ -14,12 +14,11 @@ Para que um comando seja **reconhecido** pela Inys, é necessário que o usuári
 ****
 **Observação:**
 - **É normal que no reconhecimento de voz, ela entenda o própio nome como Ines, fique a vontade na pronúncia**
-- **Inys não irá responder a comandos caso o nome dela não seja pronunciado.**
 - **A Inys foi desenvolvida para sistemas Linux, logo, suas funções são voltadas apenas para o sistema em questão.**
 ****
 
 - **Comandos** e suas **funções**:
-	- "***Inys abra o firefox***" irá executar o firefox, caso esteja instalado no seu computador.
+	- "**Inys abra o firefox**" irá executar o firefox, caso esteja instalado no seu computador.
 	- "**Inys abra o google**" irá executar o firefox e abrir o site do google.
 	- "**Inys tudo bem?**" irá responder carinhosamente a pergunta =).
 	- "**Inys quando o mundo vai acabar?**"
