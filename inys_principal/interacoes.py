@@ -94,12 +94,17 @@ def interacao(frase):
         a.fala(frase)
     elif 'qual o ip de' in comando or 'qual ip de' in comando:
         if 'qual o ip de' in comando:
-            ip = comando[19:]
+            ip = comando[12:]
             print 'Pingando: {}'.format(ip)
             m = Pesquise(ip)
             m.ping(ip)
         elif 'qual ip de' in comando:
-            ip = comando[17:]
+            ip = comando[10:]
+            print 'Pingando: {}'.format(ip)
+            m = Pesquise(ip)
+            m.ping(ip)
+        elif 'qual o ip do' in comando:
+            ip = comando[12:]
             print 'Pingando: {}'.format(ip)
             m = Pesquise(ip)
             m.ping(ip)
@@ -253,4 +258,4 @@ def interacao(frase):
         frase = 'Eu ainda nao fui programada para isso ... voce poderia me ensinar.'
         a = Pesquise(frase)
         a.fala(frase)
-        os.system('python alexa.py')
+        os.system('python inys.py')
