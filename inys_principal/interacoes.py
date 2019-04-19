@@ -238,7 +238,7 @@ def interacao(frase):
     elif 'abra o jogo da velha' in comando or 'jogar jogo da velha' in comando:
         import subprocess
         cmd = ['xterm']
-        cmd.extend(['-e', 'cd .. && cd alexa_jogos && ./forca; exec $SHELL'])
+        cmd.extend(['-e', 'cd .. && cd inys_jogos && ./forca; exec $SHELL'])
     elif 'abra o alarme' in comando or 'abra o script do alarme' in comando or 'abrir alarme' in comando or 'abrir o alarme' in comando:
         import subprocess
         cmd = ['xterm']
