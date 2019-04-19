@@ -78,11 +78,9 @@ class Cotacao:
         tamanhoCripto = len(moedas)
     	print '[+] Quantidade de criptomoedas existentes: {}'.format(str(tamanhoCripto))
         url = []
-        if 'alexa qual o preco do' in comando or 'alexia qual o preco do': # Verificação 1
-            if 'alexa qual o preco do' in comando:
-                cotacao = comando[22:]
-            elif 'alexia qual o preco do' in comando:
-                cotacao = comando[23:]
+        if 'ines qual o preco do' in comando or 'inys qual o preco do' in comando or 'inis qual o preco do' in comando: # Verificação 1
+            if 'ines qual o preco do' in comando or 'inys qual o preco do' in comando or 'inis qual o preco do' in comando:
+                cotacao = comando[21:]
             else:
                 pass
             try:
