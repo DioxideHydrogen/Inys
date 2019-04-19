@@ -40,15 +40,18 @@ Para que um comando seja **reconhecido** pela Inys, é necessário que o usuári
 	 - "**Inys localize o ip _IP_**" irá através de APIs retornar ao usuário a localização do provedor de um IP.
 	 - "**Inys que dia é hoje?**".
 	 - "**Inys configura um despertador**" irá configurar em sua database um despertador e tocar quando for o horário. **Obsercação: Datas e Horas os zeros são utilizados somente em alguns casos, exemplo: 8:30, 19/4/2019. Caso deseje um alarme para ás dez e cinco, deverá configurar da seguinte maneira: 10:5**.
-	 - "Inys últimas notícias" irá pegar as notícias mais recentes através do site de Notícias do UOL.
-
+	 - "**Inys últimas notícias**" irá pegar as notícias mais recentes através do site de Notícias do UOL.
+	 - "**Inys abra o jogo da forca**" irá abrir um jogo da forca feitoem C++.
+	 - "**Inys abra o alarme**" inicia o script que irá checar os alarmes.
+	 - "**Inys mandar um email**" irá abrir um menu para envio de um email.
+	 
 ## Configurando a Database:
 
 - Primeiro temos que instalar o serviço MySQL, seguindo esse link você pode encontrar detalhadamente como instalar: [Instalando o Sevidor MySQL no Linux](https://www.vivaolinux.com.br/dica/Instalando-o-Servidor-MySQL-no-Linux)
 - Agora precisamos clonar o repositório:
 	`git clone https://github.com/ProfesorJamesBach/Inys.git`
 - Agora entramos no diretório que contém o arquivo de backup da database:
-	`cd Inys/Inys/inys_db`
+	`cd Inys/inys_db`
 - Agora importamos a database:
 	`mysql -u usuario -p Inys_db < arquivo.sql`
 	O arquivo já contém instruções para criar a database caso ela não exista.
