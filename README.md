@@ -52,8 +52,9 @@ Para que um comando seja **reconhecido** pela Inys, é necessário que o usuári
 - Agora entramos no diretório que contém o arquivo de backup da database:
 	`cd Inys/inys_db`
 - Agora importamos a database:
-	`mysql -u usuario -p Inys_db < arquivo.sql`
-	O arquivo já contém instruções para criar a database caso ela não exista.
+	`mysql -u usuario -p alexa_db < inys.sql`
+	O arquivo já contém instruções para criar a database caso ela não exista. Se ocorrer algum erro, crie uma database com o nome **alexa_db** manualmente no console MySQL com o comando:
+	`create database alexa_db`;
 
 ## Instalando os requerimentos:
 
