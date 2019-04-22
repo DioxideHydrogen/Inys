@@ -9,9 +9,9 @@
 class configs():
 	def credentialsDB(x):
 		host = 'localhost'
-		user = 'alexa_login' #Usuario da database 
-		password = '19862010' #Senha da sua database 
-		banco = 'alexa_db' #Nome do banco de dados (Homenagem a Alexa da Amazon)
+		user = '' #Usuario da database 
+		password = '' #Senha da sua database 
+		banco = 'alexa_db' #Nome do banco de dados (Homenagem a Alexa da Amazon) **Não trocar**
 		porta = 3306 #Porta utilizada pelo servico MySQL
 		creds = [host, user, password, banco, porta]
 		return creds;
