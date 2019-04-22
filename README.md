@@ -14,6 +14,7 @@ Para que um comando seja **reconhecido** pela Inys, é necessário que o usuári
 ****
 **Observação:**
 - **É normal que no reconhecimento de voz, ela entenda o própio nome como Ines, fique a vontade na pronúncia**
+- **Por favor na atualização 0.3 não falar o nome Inys ao dizer comandos.**
 - **A Inys foi desenvolvida para sistemas Linux, logo, suas funções são voltadas apenas para o sistema em questão.**
 ****
 
