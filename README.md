@@ -61,11 +61,11 @@ Para que um comando seja **reconhecido** pela Inys, é necessário que o usuári
 - Abra o arquivo **configDB.py** com seu editor de código, nesse caso usaremos o nano:
         `nano configDB.py`
 - E configure as variáveis conforme você configurou o MySQL:  
-        host = 'localhost'  
-        user = 'usuarioMySQL'  
-        password = 'senhaMySQL'  
-        banco = 'alexa_db' **Este não pode ser trocado**  
-        porta = 3306 **Porta do serviço MySQL**  
+        `host = 'localhost'`  
+        `user = 'usuarioMySQL'`  
+        `password = 'senhaMySQL'`  
+        `banco = 'alexa_db' **Este não pode ser trocado**`  
+        `porta = 3306 **Porta do serviço MySQL**`  
 
 ## Instalando os requerimentos:
 
