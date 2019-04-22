@@ -49,5 +49,4 @@ except KeyboardInterrupt:
 except Exception as err:
     print("Não entendi") #Caso nao tenha reconhecido o padrao de fala, exibe esta mensagem
     print(str(err))
-    os.system('clear')
     os.system('python inys.py') # Auto execução da Alexa caso ela não entenda

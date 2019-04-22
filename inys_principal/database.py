@@ -1,21 +1,25 @@
 import MySQLdb
+from configDB import *
 
-host = 'localhost'
-user = 'alexa_login'
-password = '19862010'
-banco = 'alexa_db'
-porta = 3306
+data = configs()
+creds = data.credentialsDB()
+
+host = creds[0]
+user = creds[1]
+password = creds[2]
+banco = creds[3]
+porta = creds[4]
 
 con = MySQLdb.connect(host,user,password,banco,porta)
 c = con.cursor(MySQLdb.cursors.DictCursor)
 
 
 def connect():
-	host = 'localhost'
-	user = 'alexa_login'
-	password = '19862010'
-	banco = 'alexa_db'
-	porta = 3306
+	host = creds[0]
+	user = creds[1]
+	password = creds[2]
+	banco = creds[3]
+	porta = creds[4]
 
 	con = MySQLdb.connect(host,user,password,banco,porta)
 	c = con.cursor(MySQLdb.cursors.DictCursor)

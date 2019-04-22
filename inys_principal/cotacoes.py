@@ -78,11 +78,17 @@ class Cotacao:
         tamanhoCripto = len(moedas)
     	print '[+] Quantidade de criptomoedas existentes: {}'.format(str(tamanhoCripto))
         url = []
-        if 'ines qual o preco do' in comando or 'inys qual o preco do' in comando or 'inis qual o preco do' in comando: # Verificação 1
-            if 'ines qual o preco do' in comando or 'inys qual o preco do' in comando or 'inis qual o preco do' in comando:
-                cotacao = comando[21:]
+        if 'qual o preco do' in comando or 'quanto custa o' in comando or 'quanto vale o' in comando:# Verificação 1
+            if 'qual o preco do' in comando:
+                cotacao = comando[16:]
+            elif 'quanto custa o' in comando:
+                cotacao = comando[15:]
+            elif 'quanto vale o' in comando:
+                cotacao = comando[14:]
             else:
-                pass
+                frase = 'Comando invalido, apenas fale por exemplo, qual o preco do bitcoin.'
+                a = Pesquise(frase)
+                a.fala(frase)
             try:
                 url.append(todasMoedas.links_criptomoedas(cotacao))
             except:
