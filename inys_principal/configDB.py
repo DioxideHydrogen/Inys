@@ -11,7 +11,7 @@ class configs():
 		host = 'localhost'
 		user = '' #Usuario da database 
 		password = '' #Senha da sua database 
-		banco = 'alexa_db' #Nome do banco de dados (Homenagem a Alexa da Amazon) **Não trocar**
+		banco = 'alexa_db' #Nome do banco de dados (Homenagem a Alexa da Amazon) **Nao trocar**
 		porta = 3306 #Porta utilizada pelo servico MySQL
 		creds = [host, user, password, banco, porta]
 		return creds;
