@@ -8,3 +8,5 @@ beautifulsoup4==4.7.1
 protobuf==3.7.1
 google_auth_oauthlib==0.3.0
 httplib2==0.12.1
+SpeechRecognition==3.8.1
+MySQL-python==1.2.5
