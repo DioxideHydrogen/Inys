@@ -56,6 +56,16 @@ Para que um comando seja **reconhecido** pela Inys, é necessário que o usuári
 	`mysql -u usuario -p alexa_db < inys.sql`
 	O arquivo já contém instruções para criar a database caso ela não exista. Se ocorrer algum erro, crie uma database com o nome **alexa_db** manualmente no console MySQL com o comando:
 	`create database alexa_db`;
+- Agora configuramos o arquivo de configurações gerais da database:
+        `cd ../inys_principal`
+- Abra o arquivo **configDB.py** com seu editor de código, nesse caso usaremos o nano:
+        `nano configDB.py`
+- E configure as variáveis conforme você configurou o MySQL:
+        host = 'localhost'
+        user = 'usuarioMySQL'
+        password = 'senhaMySQL'
+        banco = 'alexa_db' **Este não pode ser trocado**
+        porta = 3306 **Porta do serviço MySQL**
 
 ## Instalando os requerimentos:
 
@@ -79,7 +89,7 @@ Para que um comando seja **reconhecido** pela Inys, é necessário que o usuári
 ## Desenvolvedores
 
  [Hugo Henrique](https://www.facebook.com/hugo.henrique.3192479)
-   
+  
 ![Facebook Profile Picture](https://scontent.ffor11-1.fna.fbcdn.net/v/t1.0-9/26168696_1275556685879178_2815537246259700736_n.jpg?_nc_cat=108&_nc_oc=AQndgMYO4ZF-4FEx8KU3Q3O7gsVXc5ifl7ngB1SdA37JgA_ImxZV7uIEID1A1fvVmPrd6A-0gwlUUjDAB8JqYUMh&_nc_ht=scontent.ffor11-1.fna&oh=97782ac3c2c209cd200f287392b6b791&oe=5D340D47)
 
 
