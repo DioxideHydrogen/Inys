@@ -1,9 +1,9 @@
 import MySQLdb
 
 host = "localhost"
-user = "professorv"
-password = "19862010"
-db = "escola_curso"
+user = ""
+password = ""
+db = ""
 port = 3306
 
 con = MySQLdb.connect(host, user, password, db, port)
@@ -29,12 +29,6 @@ def insert(values, table, fields=None):
 	print('>>>: '+query)
 	c.execute(query)
 	con.commit()
-
-#values = ["DEFAULT,'Joao Pedro','2000-01-01','Av. Picles','Aracaju','SE','12345678911'",
-#		"DEFAULT,'Joao Pedro','2000-01-01','Av. Selcip','Aracaju','SE','12345678912'"]
-
-#insert(values, 'alunos')
-#print(select("*","alunos"))
 
 def update(sets, table, where=None):
 	global c, con
