@@ -2,7 +2,7 @@ playsound==1.2.2
 gTTS==2.0.3
 google==2.0.1
 wit==5.1.0
-requests==2.18.4
+requests==2.20.0
 google_api_python_client==1.7.8
 beautifulsoup4==4.7.1
 protobuf==3.7.1
