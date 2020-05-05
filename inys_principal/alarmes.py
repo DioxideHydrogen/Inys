@@ -28,8 +28,8 @@ while True:
 	if so == 'Linux':
 		import MySQLdb
 		host = 'localhost'
-		user = 'alexa_login'
-		password = '19862010'
+		user = ''
+		password = ''
 		banco = 'alexa_db'
 		porta = 3306
 
