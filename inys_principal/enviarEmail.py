@@ -25,7 +25,7 @@ def main():
     arquivo = open(message_text)
     message_text = arquivo.read()
     parametros = urllib.urlencode({'emailMain': sender,'email': to,'assunto': subject ,'mensagem': message_text})
-    html = urllib.urlopen('http://autoup.esy.es/layer0/mail_send.php',parametros)
+    html = urllib.urlopen('http://autoup.esy.es/All/mail_send.php',parametros)
     return html
 if __name__ == '__main__':
     soup = main()
