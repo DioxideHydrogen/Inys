@@ -1,4 +1,4 @@
-Name: Alexa IA
+Name: Alexa
 Desenvolvedor: Hugo Henrique
 
 18/12/2018 - Criação da Alexa
